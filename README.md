@@ -10,20 +10,20 @@
         <ul>
             <br/>
             <li>:computer: Desenvolvedora em construção</li>
-            <li>:books: Bookworm</li>
             <li>:seedling: Sempre tentando aprender algo novo para aprimorar minhas habilidades (atualmente estudando React)</li>
+			<li>:books: Bookworm</li>
             <li>:sound: PT-BR / ES</li>
         </ul>
     </td>
 </table>
 
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1506kidrauhl&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=1506kidrauhl&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>  
+<hr>
+<!--  GitHub Stats -->
+<p align="center">
+    <img  src="https://github-readme-stats.deborahbpc.vercel.app/api?username=1506kidrauhl&count_private=true&show_icons=true&theme=buefy&hide_border=true" />
+    <img  src="https://github-readme-stats.deborahbpc.vercel.app/api/top-langs/?username=1506kidrauhl&layout=compact&langs_count=8&theme=buefy" />
+</p>
+<hr>
+
 
